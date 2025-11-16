@@ -1,6 +1,4 @@
-# gestorpersonaldetareas
-
-Proyecto de tareas - Versión MAIN
+Proyecto de tareas - Versión CONFLICTO
 
 
 
